@@ -59,7 +59,7 @@
     "merge": "^1.2.0",
     "moment": "^2.11.1",
     "vue": ">=2.0.0",
-    "vue-pagination-2": "^0.2.4",
+    "vue-pagination-2": "https://github.com/claudioDcv/vue-pagination-2-fork.git",
     "vue-resource": "^0.9.0"
   },
   "description": "Vue.js 2 grid components",
