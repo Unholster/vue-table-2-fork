@@ -9,8 +9,7 @@
         "rawSpec": "",
         "spec": "latest",
         "type": "tag"
-      },
-      "/Users/claudio/src/cdec-ppagos-app"
+      }
     ]
   ],
   "_from": "vue-tables-2@latest",
@@ -45,7 +44,6 @@
   "_shasum": "c1962c9bec63e57641068e7fc7125d939b2b9b08",
   "_shrinkwrap": null,
   "_spec": "vue-tables-2",
-  "_where": "/Users/claudio/src/cdec-ppagos-app",
   "browserify": {
     "transform": [
       "babelify"
@@ -59,7 +57,7 @@
     "merge": "^1.2.0",
     "moment": "^2.11.1",
     "vue": ">=2.0.0",
-    "vue-pagination-2": "https://github.com/claudioDcv/vue-pagination-2-fork.git",
+    "vue-pagination-2": "https://github.com/Unholster/vue-pagination-2-fork.git",
     "vue-resource": "^0.9.0"
   },
   "description": "Vue.js 2 grid components",
